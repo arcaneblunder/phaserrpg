@@ -1,0 +1,5 @@
+Use the mouse to click Start Game
+Movement is done with Arrow Keys
+On combat screen, hit spacebar to use the Attack option.
+
+Because of random enemy zones the game may start in combat.
